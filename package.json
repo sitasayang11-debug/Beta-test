@@ -1,0 +1,13 @@
+{
+  "name": "mlbb-beta-whatsapp-bot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MLBB BETA WhatsApp auto-reply bot using the official WhatsApp Cloud API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
